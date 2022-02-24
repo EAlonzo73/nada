@@ -1,0 +1,44 @@
+
+body{
+
+background-image: url(fondito1.jpg);
+background-repeat: no-repeat;
+background-position: center; center;
+background-attachment: fixed;
+background-size: cover;
+font-family: cursive;
+}
+
+p{color:white;}
+
+h1{
+	color:orange;
+}
+
+h2{ 
+	color:#7fff00;
+}
+h3{
+	color:Yellow;
+}
+h6{
+	color:#ff6347;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
